@@ -1,6 +1,6 @@
  # 👋 Hello, I'm Dhananjaya!
 
-🚀 **Computer Science Student | Full-Stack Developer | Data Science Enthusiast**  
+**Computer Science Student | Full-Stack Developer | Data Science Enthusiast**  
 
 ## 🚀 About Me  
 I'm a **Computer Science student at the University of Westminster**, passionate about building scalable applications, integrating AI/ML models, and exploring cloud technologies. Currently, I’m developing a **FastAPI-based authentication and business management system** with **MongoDB**, implementing **role-based authentication**.
