@@ -8,9 +8,9 @@ I'm a **Computer Science student at the University of Westminster**, passionate 
 
 ## 🔥 Tech Stack  
 <div align="center">
-  <img height=35 src="https://skillicons.dev/icons?i=python,java,c,php,mongodb,html,css,react,js,ts,mysql,vite,spring" alt="1">
-  <img height=35 src="https://skillicons.dev/icons?i=firebase,nodejs,arduino,bootstrap,mui,fastapi,threejs,tensorflow,pytorch,scikitlearn,opencv,anaconda,bash" alt="2">
-  <img height=35 src="https://skillicons.dev/icons?i=azure,linux,vscode,idea,androidstudio,figma,sketchup,blender,octave,atom,sublime,github,git" alt="3">
+  <img height=35 src="https://skillicons.dev/icons?i=python,java,c,mongodb,html,css,react,js,ts,mysql,vite,spring" alt="1">
+  <img height=35 src="https://skillicons.dev/icons?i=firebase,nodejs,arduino,fastapi,tensorflow,pytorch,scikitlearn,opencv,anaconda" alt="2">
+  <img height=35 src="https://skillicons.dev/icons?i=github,git" alt="3">
 </div>
  
 
