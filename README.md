@@ -23,5 +23,5 @@ I'm a **Computer Science student at the University of Westminster**, passionate 
 🎓 **BSc (Hons) Computer Science** — University of Westminster  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/dhananjaya-dissanayake)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/dhananjaya-dissanayake](https://www.linkedin.com/in/dhananjaya-dissanayake/))  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhananjayadissanayake01@gmail.com)  
